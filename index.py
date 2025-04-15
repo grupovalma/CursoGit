@@ -1,2 +1,2 @@
 print("First version")
-print("Commit from git, first version of test.")
+print("Commit from git, second version of test.")
